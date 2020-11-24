@@ -29,10 +29,8 @@ nums.length % 2 == 0
 fun decompressRLElist(nums: IntArray): IntArray {
     val result = mutableListOf<Int>()
     nums.toList().chunked(2) {
-        val (freq,value) = it
-        (0 until  freq).forEach { _ ->
-            result.add(value)
-        }
+        val (freq, value) = it
+        (0 until freq).forEach { _ -> result.add(value) }
     }
     return result.toIntArray()
 }
