@@ -10,6 +10,8 @@ LeetCode solutions in Kotlin
 
 [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
 
+[738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)
+
 [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 
 [1371. Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)
