@@ -18,4 +18,6 @@ LeetCode solutions in Kotlin
 
 [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
+[1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)
+
 [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
