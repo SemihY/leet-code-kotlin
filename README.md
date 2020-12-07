@@ -10,6 +10,8 @@ LeetCode solutions in Kotlin
 
 [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
 
+[705. Design HashSet](https://leetcode.com/problems/design-hashset/)
+
 [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)
 
 [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
